@@ -1,0 +1,11 @@
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/bin/Debug/netcoreapp2.1/ParentAndChildTasks.deps.json
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/bin/Debug/netcoreapp2.1/ParentAndChildTasks.runtimeconfig.json
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/bin/Debug/netcoreapp2.1/ParentAndChildTasks.runtimeconfig.dev.json
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/bin/Debug/netcoreapp2.1/ParentAndChildTasks.dll
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/bin/Debug/netcoreapp2.1/ParentAndChildTasks.pdb
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/obj/Debug/netcoreapp2.1/ParentAndChildTasks.csprojAssemblyReference.cache
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/obj/Debug/netcoreapp2.1/ParentAndChildTasks.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/obj/Debug/netcoreapp2.1/ParentAndChildTasks.AssemblyInfoInputs.cache
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/obj/Debug/netcoreapp2.1/ParentAndChildTasks.AssemblyInfo.cs
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/obj/Debug/netcoreapp2.1/ParentAndChildTasks.dll
+/home/yreis/estudo/ParallelProgramming/section-3/ParentAndChildTasks/obj/Debug/netcoreapp2.1/ParentAndChildTasks.pdb

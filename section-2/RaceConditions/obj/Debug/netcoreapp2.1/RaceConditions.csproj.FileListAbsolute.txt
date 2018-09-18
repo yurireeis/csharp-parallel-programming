@@ -1,0 +1,11 @@
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/bin/Debug/netcoreapp2.1/RaceConditions.deps.json
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/bin/Debug/netcoreapp2.1/RaceConditions.runtimeconfig.json
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/bin/Debug/netcoreapp2.1/RaceConditions.runtimeconfig.dev.json
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/bin/Debug/netcoreapp2.1/RaceConditions.dll
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/bin/Debug/netcoreapp2.1/RaceConditions.pdb
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/obj/Debug/netcoreapp2.1/RaceConditions.csprojAssemblyReference.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/obj/Debug/netcoreapp2.1/RaceConditions.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/obj/Debug/netcoreapp2.1/RaceConditions.AssemblyInfoInputs.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/obj/Debug/netcoreapp2.1/RaceConditions.AssemblyInfo.cs
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/obj/Debug/netcoreapp2.1/RaceConditions.dll
+/home/yreis/estudo/ParallelProgramming/secao-2/RaceConditions/obj/Debug/netcoreapp2.1/RaceConditions.pdb

@@ -1,0 +1,11 @@
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/bin/Debug/netcoreapp2.1/ThreadLocking.deps.json
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/bin/Debug/netcoreapp2.1/ThreadLocking.runtimeconfig.json
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/bin/Debug/netcoreapp2.1/ThreadLocking.runtimeconfig.dev.json
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/bin/Debug/netcoreapp2.1/ThreadLocking.dll
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/bin/Debug/netcoreapp2.1/ThreadLocking.pdb
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/obj/Debug/netcoreapp2.1/ThreadLocking.csprojAssemblyReference.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/obj/Debug/netcoreapp2.1/ThreadLocking.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/obj/Debug/netcoreapp2.1/ThreadLocking.AssemblyInfoInputs.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/obj/Debug/netcoreapp2.1/ThreadLocking.AssemblyInfo.cs
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/obj/Debug/netcoreapp2.1/ThreadLocking.dll
+/home/yreis/estudo/ParallelProgramming/secao-2/ThreadLocking/obj/Debug/netcoreapp2.1/ThreadLocking.pdb

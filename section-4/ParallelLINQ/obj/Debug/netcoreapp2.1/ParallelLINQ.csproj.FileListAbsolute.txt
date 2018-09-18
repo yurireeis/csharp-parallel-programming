@@ -1,0 +1,11 @@
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/obj/Debug/netcoreapp2.1/ParallelLINQ.csprojAssemblyReference.cache
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/obj/Debug/netcoreapp2.1/ParallelLINQ.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/obj/Debug/netcoreapp2.1/ParallelLINQ.AssemblyInfoInputs.cache
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/obj/Debug/netcoreapp2.1/ParallelLINQ.AssemblyInfo.cs
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/bin/Debug/netcoreapp2.1/ParallelLINQ.deps.json
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/bin/Debug/netcoreapp2.1/ParallelLINQ.runtimeconfig.json
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/bin/Debug/netcoreapp2.1/ParallelLINQ.runtimeconfig.dev.json
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/bin/Debug/netcoreapp2.1/ParallelLINQ.dll
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/bin/Debug/netcoreapp2.1/ParallelLINQ.pdb
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/obj/Debug/netcoreapp2.1/ParallelLINQ.dll
+/home/yreis/estudo/ParallelProgramming/section-4/ParallelLINQ/obj/Debug/netcoreapp2.1/ParallelLINQ.pdb

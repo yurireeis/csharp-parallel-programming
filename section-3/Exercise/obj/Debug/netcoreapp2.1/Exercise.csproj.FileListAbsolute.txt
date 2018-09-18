@@ -1,0 +1,11 @@
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/bin/Debug/netcoreapp2.1/Exercise.deps.json
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/bin/Debug/netcoreapp2.1/Exercise.runtimeconfig.json
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/bin/Debug/netcoreapp2.1/Exercise.runtimeconfig.dev.json
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/bin/Debug/netcoreapp2.1/Exercise.dll
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/bin/Debug/netcoreapp2.1/Exercise.pdb
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/obj/Debug/netcoreapp2.1/Exercise.csprojAssemblyReference.cache
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/obj/Debug/netcoreapp2.1/Exercise.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/obj/Debug/netcoreapp2.1/Exercise.AssemblyInfoInputs.cache
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/obj/Debug/netcoreapp2.1/Exercise.AssemblyInfo.cs
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/obj/Debug/netcoreapp2.1/Exercise.dll
+/home/yreis/estudo/ParallelProgramming/section-3/Exercise/obj/Debug/netcoreapp2.1/Exercise.pdb

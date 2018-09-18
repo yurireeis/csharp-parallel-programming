@@ -1,0 +1,11 @@
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/bin/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.deps.json
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/bin/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.runtimeconfig.json
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/bin/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.runtimeconfig.dev.json
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/bin/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.dll
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/bin/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.pdb
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/obj/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.csprojAssemblyReference.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/obj/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/obj/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.AssemblyInfoInputs.cache
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/obj/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.AssemblyInfo.cs
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/obj/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.dll
+/home/yreis/estudo/ParallelProgramming/secao-2/MultiThreadCodeFundamentals/obj/Debug/netcoreapp2.1/MultiThreadCodeFundamentals.pdb
